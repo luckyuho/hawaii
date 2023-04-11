@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hawaii/static/css/main.eb190ebd.css",
+    "main.js": "/hawaii/static/js/main.fdeff734.js",
+    "static/js/787.15ab4779.chunk.js": "/hawaii/static/js/787.15ab4779.chunk.js",
+    "static/media/tatonomusic-FFCgotROOTY-unsplash.jpg": "/hawaii/static/media/tatonomusic-FFCgotROOTY-unsplash.d526d5c9c937b4540946.jpg",
+    "static/media/pexels-photo-416676.jpeg": "/hawaii/static/media/pexels-photo-416676.37e17deaedd0aec13aa9.jpeg",
+    "static/media/braden-jarvis-prSogOoFmkw-unsplash.jpg": "/hawaii/static/media/braden-jarvis-prSogOoFmkw-unsplash.6da1c144316e6392b928.jpg",
+    "static/media/sean-o-KMn4VEeEPR8-unsplash.jpg": "/hawaii/static/media/sean-o-KMn4VEeEPR8-unsplash.8c4f39008a1266c55bd1.jpg",
+    "static/media/black logo.svg": "/hawaii/static/media/black logo.aed8265c9b33867aa8cd144b6242d06b.svg",
+    "index.html": "/hawaii/index.html",
+    "main.eb190ebd.css.map": "/hawaii/static/css/main.eb190ebd.css.map",
+    "main.fdeff734.js.map": "/hawaii/static/js/main.fdeff734.js.map",
+    "787.15ab4779.chunk.js.map": "/hawaii/static/js/787.15ab4779.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb190ebd.css",
+    "static/js/main.fdeff734.js"
+  ]
+}
